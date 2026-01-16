@@ -2,3 +2,27 @@ img {
     width: 300px;
     height: auto;
 }
+
+#page-container {
+    width: 760px;
+}
+
+#content {
+    margin-right: 20;
+    background: white;
+}
+
+#content h2 {
+    margin: 0;
+    padding: 0;
+}
+
+#content p {
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2 {
+    margin: 0;
+    padding: 0;
+}
